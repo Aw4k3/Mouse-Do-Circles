@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP Playground", "CPP Playground\CPP Playground.vcxproj", "{CFD76006-102F-4A5B-94AE-C1786C53292B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mouse Do Circles", "Mouse Do Circles\Mouse Do Circles.vcxproj", "{0323EA3B-2683-4AC5-9165-B1607D0EEE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD76006-102F-4A5B-94AE-C1786C53292B}.Debug|x64.ActiveCfg = Debug|x64
+		{CFD76006-102F-4A5B-94AE-C1786C53292B}.Debug|x64.Build.0 = Debug|x64
+		{CFD76006-102F-4A5B-94AE-C1786C53292B}.Debug|x86.ActiveCfg = Debug|Win32
+		{CFD76006-102F-4A5B-94AE-C1786C53292B}.Debug|x86.Build.0 = Debug|Win32
+		{CFD76006-102F-4A5B-94AE-C1786C53292B}.Release|x64.ActiveCfg = Release|x64
+		{CFD76006-102F-4A5B-94AE-C1786C53292B}.Release|x64.Build.0 = Release|x64
+		{CFD76006-102F-4A5B-94AE-C1786C53292B}.Release|x86.ActiveCfg = Release|Win32
+		{CFD76006-102F-4A5B-94AE-C1786C53292B}.Release|x86.Build.0 = Release|Win32
+		{0323EA3B-2683-4AC5-9165-B1607D0EEE04}.Debug|x64.ActiveCfg = Debug|x64
+		{0323EA3B-2683-4AC5-9165-B1607D0EEE04}.Debug|x64.Build.0 = Debug|x64
+		{0323EA3B-2683-4AC5-9165-B1607D0EEE04}.Debug|x86.ActiveCfg = Debug|Win32
+		{0323EA3B-2683-4AC5-9165-B1607D0EEE04}.Debug|x86.Build.0 = Debug|Win32
+		{0323EA3B-2683-4AC5-9165-B1607D0EEE04}.Release|x64.ActiveCfg = Release|x64
+		{0323EA3B-2683-4AC5-9165-B1607D0EEE04}.Release|x64.Build.0 = Release|x64
+		{0323EA3B-2683-4AC5-9165-B1607D0EEE04}.Release|x86.ActiveCfg = Release|Win32
+		{0323EA3B-2683-4AC5-9165-B1607D0EEE04}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D84E0DB1-9952-487F-B25D-A3AA684E6CF4}
+	EndGlobalSection
+EndGlobal

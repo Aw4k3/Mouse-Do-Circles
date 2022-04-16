@@ -1,0 +1,4 @@
+﻿  Mouse Do Circles.cpp
+C:\Users\Potato PC\source\repos\Cpp Playground\Mouse Do Circles\Mouse Do Circles.cpp(18,35): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Potato PC\source\repos\Cpp Playground\Mouse Do Circles\Mouse Do Circles.cpp(19,40): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  Mouse Do Circles.vcxproj -> C:\Users\Potato PC\source\repos\Cpp Playground\Debug\Mouse Do Circles.exe
